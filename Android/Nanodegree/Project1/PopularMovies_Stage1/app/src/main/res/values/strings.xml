@@ -1,0 +1,26 @@
+<resources>
+    <!--TITLE_ACTIVITIES-->
+    <string name="app_name" translatable="false">Popular Movies</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <!--ACTIONS-->
+    <string name="action_settings">Settings</string>
+
+
+    <!--SETTINGS-->
+
+    <!--SORT-->
+    <string name="pref_sort_display">Sort Order</string>
+    <string name="pref_sort_key" translatable="false">sort_option</string>
+
+    <string name="pref_sort_display_default">Most Popular</string>
+    <string name="pref_sort_display_most_popular">Most Popular</string>
+    <string name="pref_sort_display_highest_rated">Highest Rated</string>
+
+    <string name="pref_sort_key_default" translatable="false">popular</string>
+    <string name="pref_sort_key_most_popular" translatable="false">popular</string>
+    <string name="pref_sort_key_highest_rated" translatable="false">top_rated</string>
+    <string name="title_activity_detail">Detail</string>
+    <string name="movie_poster_description">Movie Poster</string>
+
+</resources>
